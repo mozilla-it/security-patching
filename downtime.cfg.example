@@ -1,0 +1,16 @@
+[downtime]
+
+botname = somebotname
+
+network = somenetwork
+
+channel = somechannel
+
+key = somekey
+
+nick = somenick
+
+duration = someduration
+
+reason = somereason
+
